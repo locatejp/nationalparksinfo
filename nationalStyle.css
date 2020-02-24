@@ -1,0 +1,37 @@
+body {
+  background: url("https://wallpapercave.com/wp/wp2174477.jpg")
+  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.whiteShadow {
+    color: white;
+text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.userLoginArea {
+display: inline;
+position: absolute;
+  right: 0;
+}
+
+.container {
+    padding: 25px;
+}
+
+.card {
+    margin: 10px;
+    }
+
+.carousel-item{
+    width: 100%;
+    height:auto;
+}
+
+#googleMap {
+    width: auto;  /* The width is the width of the web page */
+    height: 20em;  /* The height is 400 pixels */
+   }
